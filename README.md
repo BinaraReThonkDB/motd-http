@@ -6,6 +6,6 @@ With docker-compose:
 web:
   image: dockhero/motd-http
   ports:
-    - "80:80"
+    - "80:8000"
 ```
 
